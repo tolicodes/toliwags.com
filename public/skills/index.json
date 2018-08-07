@@ -1,0 +1,216 @@
+[{
+  "title": "React",
+  "url": "https://reactjs.org/",
+  "img": "/skills/react.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "Redux",
+  "url": "https://redux.js.org/",
+  "img": "/skills/redux.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "Redux Saga",
+  "url": "https://github.com/redux-saga/redux-saga",
+  "img": "/skills/redux-saga.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "Connected React Router",
+  "url": "https://github.com/supasate/connected-react-router",
+  "img": "/skills/react-router.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "Styled Components",
+  "url": "https://www.styled-components.com/",
+  "img": "/skills/styled-components.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "Jest",
+  "url": "https://jestjs.io/",
+  "img": "/skills/jest.png",
+  "tags": ["Frontend", "Testing"]
+}, {
+  "title": "Enzyme",
+  "url": "https://github.com/airbnb/enzyme",
+  "img": "/skills/enzyme.png",
+  "tags": ["Frontend", "Testing"]
+}, {
+  "title": "Angular 1.4",
+  "url": "https://angular.io/",
+  "img": "/skills/angular.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "Backbone",
+  "url": "http://backbonejs.org/",
+  "img": "/skills/backbone.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "jQuery",
+  "url": "http://jquery.com/",
+  "img": "/skills/jQuery.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "ES8",
+  "url": "https://github.com/tc39/proposals",
+  "img": "/skills/js.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "D3",
+  "url": "https://d3js.org/",
+  "img": "/skills/d3.png",
+  "tags": ["Frontend", "Data Viz"]
+}, {
+  "title": "HighCharts",
+  "url": "https://www.highcharts.com/",
+  "img": "/skills/highcharts.png",
+  "tags": ["Frontend", "Data Viz"]
+}, {
+  "title": "Carto",
+  "url": "https://carto.com/",
+  "img": "/skills/carto.png",
+  "tags": ["Frontend", "Data Viz"]
+}, {
+  "title": "Google Maps",
+  "url": "https://developers.google.com/maps/documentation/javascript/tutorial",
+  "img": "/skills/google-maps.png",
+  "tags": ["Frontend", "Data Viz", "API"]
+}, {
+  "title": "Node.js",
+  "url": "https://nodejs.org/en/",
+  "img": "/skills/node.png",
+  "tags": ["Backend", "Scripting"]
+}, {
+  "title": "Koa",
+  "url": "https://github.com/koajs/koa",
+  "img": "/skills/koa.png",
+  "tags": ["Backend"]
+}, {
+  "title": "Passport",
+  "url": "http://www.passportjs.org/",
+  "img": "/skills/passport.png",
+  "tags": ["Backend"]
+}, {
+  "title": "RDS Aurora",
+  "url": "https://aws.amazon.com/rds/aurora/",
+  "img": "/skills/aws-rds.png",
+  "tags": ["Backend", "Database"]
+}, {
+  "title": "MongoDB",
+  "url": "https://www.mongodb.com/",
+  "img": "/skills/mongo.png",
+  "tags": ["Backend", "Database"]
+}, {
+  "title": "MySQL",
+  "url": "https://mysql.com/",
+  "img": "/skills/mysql.png",
+  "tags": ["Backend", "Database"]
+}, {
+  "title": "create-react-app",
+  "url": "https://github.com/facebook/create-react-app",
+  "imgText": "CRA",
+  "tags": ["Frontend", "Tooling"]
+}, {
+  "title": "Webpack",
+  "url": "https://webpack.js.org/",
+  "img": "/skills/webpack.png",
+  "tags": ["Frontend", "Tooling"]
+}, {
+  "title": "Storybook",
+  "url": "https://github.com/storybooks/storybook",
+  "img": "/skills/storybook.png",
+  "tags": ["Frontend", "Testing", "Tooling"]
+}, {
+  "title": "ESLint",
+  "url": "https://eslint.org/",
+  "img": "/skills/eslint.png",
+  "tags": ["Frontend", "Tooling"]
+}, {
+  "title": "AirBnB Standards",
+  "url": "https://github.com/airbnb/javascript",
+  "img": "/skills/airbnb.png",
+  "tags": ["Frontend", "Tooling"]
+}, {
+  "title": "Babel",
+  "url": "https://babeljs.io/",
+  "img": "/skills/react.png",
+  "tags": ["Frontend", "Tooling"]
+}, {
+  "title": "Atom Editor",
+  "url": "https://atom.io/",
+  "img": "/skills/react.png",
+  "tags": ["Frontend"]
+}, {
+  "title": "AWS",
+  "url": "https://aws.amazon.com/",
+  "img": "/skills/aws.png",
+  "tags": ["Infrastructure"]
+}, {
+  "title": "AWS Lambda",
+  "url": "https://aws.amazon.com/lambda/",
+  "img": "/skills/aws-lambda.png",
+  "tags": ["Backend", "Infrastructure"]
+}, {
+  "title": "AWS S3",
+  "url": "https://aws.amazon.com/s3",
+  "img": "/skills/aws-s3.png",
+  "tags": ["Backend", "Database", "Infrastructure"]
+}, {
+  "title": "AWS Aurora",
+  "url": "https://aws.amazon.com/rds/aurora/",
+  "img": "/skills/aws-rds.png",
+  "tags": ["Backend", "Database", "Infrastructure"]
+}, {
+  "title": "AWS API Gateway",
+  "url": "https://aws.amazon.com/api-gateway/",
+  "img": "/skills/aws-api-gatewayß.png",
+  "tags": ["Backend", "Database", "Infrastructure"]
+}, {
+  "title": "Surge.sh",
+  "url": "http://surge.sh/",
+  "img": "/skills/surge.png",
+  "tags": ["Infrastructure", "Frontend", "Tooling"]
+}, {
+  "title": "Github",
+  "url": "https://github.com/",
+  "img": "/skills/github.png",
+  "tags": ["Infrastructure"]
+}, {
+  "title": "Grunt",
+  "url": "https://gruntjs.com/",
+  "img": "/skills/grunt.png",
+  "tags": ["Infrastructure"]
+}, {
+  "title": "Algolia Search",
+  "url": "https://www.algolia.com/",
+  "img": "/skills/algolia.png",
+  "tags": ["API", "Backend", "Frontend"]
+}, {
+  "title": "Twilio",
+  "url": "https://www.twilio.com/",
+  "img": "/skills/react.png",
+  "tags": ["API", "Backend"]
+}, {
+  "title": "Gmail API",
+  "url": "https://developers.google.com/gmail/api/",
+  "img": "/skills/gmail.png",
+  "tags": ["API", "Backend"]
+}, {
+  "title": "Google Sheets Scripts",
+  "url": "https://developers.google.com/apps-script/guides/sheets",
+  "img": "/skills/sheets.png",
+  "tags": ["Frontend", "Backend" "Scripting", "APIs"]
+}, {
+  "title": "YouTube API",
+  "url": "https://developers.google.com/youtube/?csw=1#data_api",
+  "img": "/skills/youtube.png",
+  "tags": ["Frontend", "API"]
+}, {
+  "title": "Facebook API",
+  "url": "https://developers.facebook.com/docs",
+  "img": "/skills/facebook.png",
+  "tags": ["Backend", "API"]
+}, {
+  "title": "Stripe API",
+  "url": "https://stripe.com/docs/api",
+  "img": "/skills/facebook.png",
+  "tags": ["Backend", "API"]
+}]

@@ -1,0 +1,214 @@
+[{
+  "img": "/clients/logos/amex.png",
+  "url": "https://www.americanexpress.com/",
+  "tag": ["Large Company", "Full Time"],
+  "industry": ["Financial"],
+  "tech": ["Frontend", "React", "Redux", "Node"]
+}, {
+  "img": "/clients/logos/ny-fed.png",
+  "url": "https://www.newyorkfed.org/",
+  "tag": ["Large Company", "Full Time"],
+  "industry": ["Financial", "Government"],
+  "tech": ["Frontend", "Backbone", "Data Viz", "D3", "Highcharts", "Node"]
+}, {
+  "img": "/clients/logos/wsj.png",
+  "url": "https://wsj.com/",
+  "tag": ["Large Company", "Full Time"],
+  "industry": ["Media"],
+  "tech": ["Frontend", "Data Viz", "D3", "Highcharts", "Node", "Mongo"]
+}, {
+  "img": "/clients/logos/agorafy.png",
+  "url": "https://agorafy.com/",
+  "tag": [ "Startup"],
+  "industry": ["Real Estate"],
+  "tech": ["Frontend", "Node", "React", "Redux", "Project Managment"]
+}, {
+  "img": "/clients/logos/codementor.png",
+  "url": "https://codementor.io/",
+  "tag": ["Small Project", "Prototyping"],
+  "industry": ["Agency"],
+  "tech": ["Frontend", "Data Viz", "D3", "Highcharts", "Node", "Mongo"]
+}, {
+  "img": "/clients/logos/0ptimus.png",
+  "url": "https://0ptimus.com/",
+  "tag": ["Data Viz", "Small Project"],
+  "industry": ["Politics"],
+  "tech": ["Frontend", "Data Viz", "D3", "Carto", "Node", "Mongo"]
+}, {
+  "img": "/clients/logos/percolate.png",
+  "url": "https://percolate.com/",
+  "tag": ["Full Time"],
+  "industry": ["Marketing"],
+  "tech": ["Frontend", "Node", "Backbone", "React"]
+}, {
+  "img": "/clients/logos/chanel.png",
+  "url": "https://chanel.com/",
+  "tag": ["Full Time", "Large Company"],
+  "industry": ["Fashion"],
+  "tech": ["Frontend", "PHP", "jQuery"]
+}, {
+  "img": "/clients/logos/evenfinancial.png",
+  "url": "https://evenfinancial.com/",
+  "tag": ["Startup", "Prototyping"],
+  "industry": ["Financial"],
+  "tech": ["Frontend", "Project Managment", "Node", "React", "Redux", "Angular 1.4", "AWS", "Lambda"]
+}, {
+  "img": "/clients/logos/hover.png",
+  "url": "http://www.hover.to/",
+  "tag": ["Startup"],
+  "industry": ["Real Estate"],
+  "tech": ["Frontend", "Node", "React", "Redux", "Redux Sagas", "Styled Components"]
+}, {
+  "img": "/clients/logos/smartly.png",
+  "url": "https://smartly.io/",
+  "tag": ["Startup", "Acct. Management", "Full Time"],
+  "industry": ["Marketing"],
+  "tech": ["Node", "APIs"]
+}, {
+  "img": "/clients/logos/the-doctors-channel.png",
+  "url": "https://thedoctorschannel.com/",
+  "tag": ["Startup", "Full Time"],
+  "industry": ["Health"],
+  "tech": ["Node", "APIs"]
+}, {
+  "img": "/clients/logos/nyu.png",
+  "url": "https://nyu.edu/",
+  "tag": ["Small Project"],
+  "industry": ["Educational", "University"],
+  "tech": ["Wordpress"]
+}, {
+  "img": "/clients/logos/bhatta-law.png",
+  "url": "https://bhattalaw.com/",
+  "industry": ["Law"],
+  "tag": ["Tech Consulting"]
+}, {
+  "img": "/clients/logos/bruno-law.png",
+  "url": "http://www.brunolawllc.com/",
+  "industry": ["Law"],
+  "tag": ["Tech Consulting", "Design"]
+}, {
+  "img": "/clients/logos/builder-dome.png",
+  "url": "http://www.builderdome.com/",
+  "industry": ["Real Estate"],
+  "tag": ["Startup", "Biz. Consulting"]
+}, {
+  "img": "/clients/logos/cravetickets.png",
+  "url": "http://www.cravetickets.com/",
+  "tag": ["Startup"],
+  "industry": ["Entertainment"],
+  "tech": ["Full Stack", "PHP"]
+}, {
+  "img": "/clients/logos/datrixo.png",
+  "url": "http://www.datrixo.com/",
+  "tag": ["Startup"],
+  "industry": ["Big Data"],
+  "tech": ["NLP", "RDF", "XBRL", "Semanic Web"]
+}, {
+  "img": "/clients/logos/inrhythm.png",
+  "url": "http://www.inrhythm.com/",
+  "tag": ["Full Time"],
+  "industry": ["Agency"],
+  "tech": ["Frontend", "React", "Redux", "Node"]
+}, {
+  "img": "/clients/logos/joonbug.png",
+  "url": "http://www.joonbug.com/",
+  "tag": ["Startup"],
+  "industry": ["Entertainment"],
+  "tech": ["Full Stack", "PHP"]
+}, {
+  "img": "/clients/logos/launch-collective.png",
+  "url": "http://www.launchcollective.com/",
+  "tag": ["Small Project"],
+  "industry": ["Fashion"],
+  "tech": ["Frontend"]
+}, {
+  "img": "/clients/logos/lemon-place.png",
+  "url": "http://www.lemonplace.com/",
+  "tag": [],
+  "industry": ["Agency"],
+  "tech": ["Full Stack", "Wordpress", "Javascript"]
+}, {
+  "img": "/clients/logos/life-dashboard.png",
+  "url": "http://www.lifedashboard.com/",
+  "industry": ["Enterprise Tools"],
+  "tag": ["Startup", "Small Project", "Prototyping"],
+  "tech": ["Frontend", "React", "Chrome Plugin", "Data Viz", "D3", "Highcharts"]
+}, {
+  "img": "/clients/logos/luxe-travel.png",
+  "url": "http://www.luxetravel.com/",
+  "industry": ["Travel"],
+  "tag": ["Startup", "Small Project"],
+  "tech": ["Full Stack", "PHP"]
+}, {
+  "img": "/clients/logos/move-with-mendel.png",
+  "url": "http://www.mendelfit.com/",
+  "tag": ["Startup", "Small Project"],
+  "industry": ["Fitness"],
+  "tech": ["Full Stack", "Wordpress"]
+}, {
+  "img": "/clients/logos/my-sports-share.png",
+  "url": "http://www.mysportsshare.com/",
+  "tag": ["Startup", "Long Term Project", "Proj. Management"],
+  "industry": ["Fitness"],
+  "tech": ["Full Stack", "PHP"]
+}, {
+  "img": "/clients/logos/omni.png",
+  "url": "http://www.getrileynow.com/",
+  "tag": ["Startup", "Biz. Consulting", "Small Project", "Prototyping"],
+  "industry": ["Real Estate"],
+  "tech": ["Full Stack", "Node", "Twilio", "React", "Wireframing"]
+}, {
+  "img": "/clients/logos/open-camps.png",
+  "url": "http://www.opencamps.org/",
+  "industry": ["Non Profit", "Conference"],
+  "tag": ["Volunteering"],
+  "tech": ["Full Stack", "PHP"]
+}, {
+  "img": "/clients/logos/pos-psych.png",
+  "url": "http://positivepsychologynews.com/",
+  "tag": ["Small Project"],
+  "industry": ["Health"],
+  "tech": ["Full Stack", "PHP", "Wordpress"]
+}, {
+  "img": "/clients/logos/preminder.png",
+  "url": "http://preminder.md/",
+  "tag": ["Startup", "Biz. Consulting", "Small Project", "Prototyping"],
+  "industry": ["Health"],
+  "tech": ["Full Stack", "Node", "Twilio", "React", "Wireframing", "Data Viz", "D3", "Highcharts"]
+}, {
+  "img": "/clients/logos/respondent-io.png",
+  "url": "http://www.respondent-io.com/",
+  "industry": ["Marketing"],
+  "tag": ["Startup", "Small Project", "Biz. Consulting", "Prototyping"],
+  "tech": ["Full Stack", "React", "Node", "Mongo", "Proj. Management"]
+}, {
+  "img": "/clients/logos/rms.png",
+  "url": "http://rmsaxiom.com/",
+  "tag": ["Startup", "Long Term Project", "Biz. Consulting", "Proj. Management", "Prototyping"],
+  "industry": ["Financial"],
+  "tech": ["Full Stack", "Backbone", "Node", "Mongo"]
+}, {
+  "img": "/clients/logos/samantha-cole.png",
+  "url": "http://samanthariverscole.com/",
+  "tag": ["Small Project"],
+  "industry": ["Entertainment"],
+  "tech": ["Full Stack", "Wordpress"]
+}, {
+  "img": "/clients/logos/script-ed.png",
+  "url": "http://scripted.org/",
+  "tag": ["Volunteering"],
+  "industry": ["Non Profit", "Education"],
+  "tech": ["Full Stack"]
+}, {
+  "img": "/clients/logos/tanya-taylor.png",
+  "url": "http://tanyataylor.com/",
+  "tag": ["Small Project"],
+  "industry": ["Fashion"],
+  "tech": ["Frontend"]
+}, {
+  "img": "/clients/logos/valtech.png",
+  "url": "http://valtech.com/",
+  "tag": ["Full Time"],
+  "industry": ["Agency"],
+  "tech": ["Frontend", "PHP", "jQuery"]
+}]

@@ -1,0 +1,21 @@
+[{
+  "path": "my-story",
+  "title": "Watch My Story",
+  "icon": "youtube"
+}, {
+  "path": "about-me",
+  "title": "About Me",
+  "icon": "question"
+}, {
+  "path": "clients",
+  "title": "Companies I've Worked With",
+  "icon": "work"
+}, {
+  "path": "ny-to-sf",
+  "title": "NY→SF",
+  "icon": "building"
+}, {
+  "path": "hobbies",
+  "title": "Hobbies",
+  "icon": "ball"
+}]
