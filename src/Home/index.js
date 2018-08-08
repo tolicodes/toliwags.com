@@ -79,12 +79,12 @@ class Home extends Component {
         <Header onMenuToggle={this.onMenuToggle} nav={nav} />
         <WatchMyStory {...this.getNavPropsForSection('my-story')} />
         <AboutMe text={aboutMe} {...this.getNavPropsForSection('about-me')} />
-        <Clients
+        {/* <Clients
           clients={clients}
           filterClients={filterClients}
           clientFilters={clientFilters}
           {...this.getNavPropsForSection('clients')}
-        />
+        />*/}
         <NYSFTransplant {...this.getNavPropsForSection('ny-to-sf')} />
         <Schedule />
         <Hobbies {...this.getNavPropsForSection('hobbies')} />

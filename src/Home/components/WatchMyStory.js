@@ -29,7 +29,7 @@ export default ({ title, path }) => (
     </Heading>
     <YouTubeWrapper>
       <FullWidthYouTube
-        videoId="z1VNwapOb8E"
+        videoId="hK8FZTNit4o"
       />
     </YouTubeWrapper>
   </MainSection>

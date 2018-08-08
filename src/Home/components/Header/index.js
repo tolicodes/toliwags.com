@@ -29,7 +29,7 @@ const ICON_SIZE = 13;
 
 const Wrapper = styled.header`
   padding: 20px 0;
-  background-color: #db573e;
+  background-color: #55bb92;
 `;
 
 const MenuButton = styled.div`
@@ -165,7 +165,7 @@ export default class Header extends Component {
         <GithubCorner
           data-place="left"
           data-tip="View the Source Code for this site on GitHub!"
-          href="https://github.com/tolicodes/tolicodes.com"
+          href="https://github.com/tolicodes/toliwags.com"
         />
 
         <ReactTooltip />
@@ -180,23 +180,24 @@ export default class Header extends Component {
         </MenuButton>
 
         <Title>
-          @tolicodes
+          toliwags
         </Title>
         <Subtitle>
-          Anatoliy D. Zaslavskiy
+          The Best Dog Sitting
         </Subtitle>
         <Links>
-          <Link href="/resume.pdf">
-            <FileDownload size={ICON_SIZE} />
+
+          <Link href="http://rover.com/tolicodes" target="_blank">
+            <Github size={ICON_SIZE} />
             <LinkLabel>
-              Resume
+              Rover
             </LinkLabel>
           </Link>
 
-          <Link href="http://github.com/tolicodes" target="_blank">
+          <Link href="http://wag.com/tolicodes" target="_blank">
             <Github size={ICON_SIZE} />
             <LinkLabel>
-              Github
+              Wag
             </LinkLabel>
           </Link>
 
@@ -207,21 +208,10 @@ export default class Header extends Component {
             </LinkLabel>
           </Link>
 
-          <Link
-            href="https://www.codementor.io/tolicodes/reviews"
-            target="_blank"
-            data-tip="Read what real clients have to say about me"
-          >
-            <ChalkboardTeacher size={ICON_SIZE} />
-            <LinkLabel>
-              CodeMentor
-            </LinkLabel>
-          </Link>
-
-          <Link href="mailto:toli@tolicodes.com" target="_blank">
+          <Link href="mailto:toli@toliwags.com" target="_blank">
             <Email size={ICON_SIZE} />
             <LinkLabel>
-              toli@tolicodes.com
+              toli@toliwags.com
             </LinkLabel>
           </Link>
         </Links>
