@@ -82,3 +82,7 @@ In the project directory, you can run:
 ### Hotjar
 
 ### Rollbar
+
+## Behavioral analytics
+
+The owned Netlify web publication uses the existing centrally configured anonymous-only Clarity snippet. Source removes the old Google Tag Manager initializer; historical Google evidence is preserved. The current compiled artifact is patched only to remove collector blocks, retaining all original page content, compiled app assets and routing. Clarity sends no replay, DOM/CSS/text, private URLs, account identity or arbitrary properties. Source and actual hosted activation remain separate.
